@@ -64,6 +64,8 @@ plt.show
 ## OUTPUT
 ![Screenshot 2023-04-04 161624](https://user-images.githubusercontent.com/113497491/229770247-037d8d1a-b8be-4a3a-a708-ac8b7170c6db.png)
 
+![Screenshot 2023-04-04 161632](https://user-images.githubusercontent.com/113497491/229770753-6714b556-c80a-4470-bd7b-328f48d701b7.png)
+
 ![Screenshot 2023-04-04 161642](https://user-images.githubusercontent.com/113497491/229770328-d1a643ab-4cfc-47e8-9d94-a8634c35f871.png)
 
 ![Screenshot 2023-04-04 161700](https://user-images.githubusercontent.com/113497491/229770378-613d46ce-da64-44cf-b814-14848b948a17.png)
